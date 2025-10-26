@@ -7,7 +7,7 @@ Official dataset release for _PartNeXt: A Next-Generation Dataset for Fine-Grain
 [![Project Page](https://img.shields.io/badge/Project_Page-Website-green?logo=homepage&logoColor=white)](https://authoritywang.github.io/partnext/)
 [![🤗 Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/AuWang/PartNeXt)
 
-**[Penghao Wang](https://authoritywang.github.io/), Yiyan He, Xin Lv, Yukai Zhou, [Lan Xu](https://www.xu-lan.com/), [Jingyi Yu](http://www.yu-jingyi.com/cv/), [Jiayuan Gu†](https://jiayuan-gu.github.io/)**
+**[Penghao Wang](https://authoritywang.github.io/), Yiyang He, Xin Lv, Yukai Zhou, [Lan Xu](https://www.xu-lan.com/), [Jingyi Yu](http://www.yu-jingyi.com/cv/), [Jiayuan Gu†](https://jiayuan-gu.github.io/)**
 
 **ShanghaiTech University**
 
